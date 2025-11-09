@@ -1,3 +1,0 @@
-This is a sample file for S3 upload.
-You can use this file to test uploading to Amazon S3 using boto3 in Python!
-Date generated: 2025-11-04
